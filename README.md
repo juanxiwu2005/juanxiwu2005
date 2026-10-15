@@ -38,6 +38,8 @@ Presented lifecycle governance and an M365 Copilot market-monitoring concept to 
 Paired with a two-wave rollout: quick wins in 2025–27, then structural resets as long-term contracts expire in 2028–30.  
 `Spend analysis` `Contract segmentation` `Excel` `Benchmarking`
 
+<img src="https://juanxiwu2005.github.io/assets/deloitte-quadrants.jpg" alt="Contract segmentation slide" width="560">
+
 ---
 
 ### 3 · Levi's × Bocconi: *From Denim Authority to Personal Ownership*
@@ -51,6 +53,8 @@ An EMEA retail and product strategy built on one idea: **help her find her fit, 
 
 🏅 Full credits with honors · Brand KPIs benchmarked across the US, UK and Germany  
 `Retail strategy` `Consumer insights` `Competitive benchmarking`
+
+<img src="https://juanxiwu2005.github.io/assets/levis-data-ownership.jpg" alt="Data Ownership slide from the Levi's deck" width="560">
 
 ---
 
@@ -78,6 +82,8 @@ A live campus negotiation game. Six two-person startup teams each need three sig
 **Teaches:** partner selection, asking the right questions, persuasion, teamwork.  
 `Game design` `HTML/JS` `Facilitation`
 
+<img src="https://juanxiwu2005.github.io/assets/fineprint-gate.jpg" alt="THE FINE PRINT start screen" width="260"> <img src="https://juanxiwu2005.github.io/assets/fineprint-role-card.jpg" alt="A founder's role card" width="260">
+
 ---
 
 ### 6 · Askoll EVA: CRM platform & implementation-partner decision
@@ -97,12 +103,16 @@ An e-mobility manufacturer had to choose between **Microsoft Business Central, S
 ### 7 · Running events at the Student Entrepreneurship Organization
 *President · 2024–present*
 
+🏆 **W. P. Carey Program of the Year**, awarded for our Speaker Series with Marc Lore
+
 - Launched SEO's first **VIP Speaker Series** with serial entrepreneur Marc Lore: **194 RSVPs**, built with Changemaker Central and the Business School Council. Afterwards I wrote an 11-part post-mortem that became our event-planning playbook.
 - Negotiated **$10K+** in multi-vendor sponsorships across 9+ large events and **cut cost overruns by 12%**
 - Fall 2026 lineup: speaker series, a simulation workshop, a *Failure Workshop*, a company visit, and a Shark-Tank-style idea competition among the officers
 - Partner model: a standard partnership fee, and every visiting company has to teach a real skill session, not just a recruiting pitch
 
 `Partnerships` `Event operations` `Budgeting` `Marketing`
+
+<img src="https://juanxiwu2005.github.io/assets/seo-program-of-the-year.jpg" alt="Accepting Program of the Year with the officer team" width="560">
 
 ---
 
